@@ -1,6 +1,11 @@
 Kvasir
 ======
 
+![](https://img.shields.io/github/issues/KvasirSecurity/Kvasir.svg)
+![](https://img.shields.io/github/forks/KvasirSecurity/Kvasir.svg)
+![](https://img.shields.io/github/stars/KvasirSecurity/Kvasir.svg)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Kvasir)
+
 Welcome to Kvasir! Herein these directories lay the groundwork tools for
 effective data management during a Penetration Test.
 
